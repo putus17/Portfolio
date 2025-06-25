@@ -206,7 +206,7 @@ export default function Portfolio() {
       </nav>
 
           {/* Hero Section */}
-      <section id="home" className="min-h-screen flex items-center justify-center px-4 relative overflow-hidden">
+      <section id="home" className="min-h-screen pt-20 flex items-center justify-center px-4 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-purple-600/20"></div>
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="animate-fade-in">
