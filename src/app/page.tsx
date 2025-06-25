@@ -246,7 +246,7 @@ export default function Portfolio() {
              
             </div>
             <div className="flex justify-center space-x-6">
-              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors hover:scale-110 transform">
+              <a href="https://github.com/putus17" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors hover:scale-110 transform">
                 <Github size={28} />
               </a>
               <a href="mailto:eejrod17@gmail.com" className="text-gray-400 hover:text-white transition-colors hover:scale-110 transform">
